@@ -15,4 +15,6 @@ For more detail, click [here](https://lookerstudio.google.com/reporting/d1080d8d
 ## Business Recommendations:
 1. <b>Focus on High Performers:</b> Concentrate sales efforts on top products - Ampicillin (from distributor TA), Paracetamol, and Tramadol (from distributor TD).
 2. <b>Comprehensive Marketing:</b> Market all products in every branch to cater to diverse needs, expanding reach and potentially boosting customer numbers.
-- > Implementing these strategies aims to revitalize revenue streams and foster sustainable growth.
+```
+Implementing these strategies aims to revitalize revenue streams and foster sustainable growth.
+```
